@@ -1,2 +1,3 @@
-# next-microservice-suvo
-A microservice architecture for modern development workflows
+# Next Microservice Suvo
+
+A microservice architecture for modern development workflows.
